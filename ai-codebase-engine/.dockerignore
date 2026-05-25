@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.docker-config/
+venv/
+.venv/
+env/
+frontend/node_modules/
+frontend/build/
+data/
+.git/
+.env
